@@ -1,0 +1,171 @@
+body{
+    background: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Ubuntu', sans-serif;
+    color:#C8A2C8; 
+}
+.section{
+    margin: auto;
+    width: 80%;
+    padding: 10px;
+}
+.menu-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+.passport-section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.passport-section img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.socialicon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+.twitter{
+    padding: 0px 25px;
+}
+.aboutme-section{
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 50px;
+}
+.about-title
+.about-content{
+width: 50%;
+}
+chat{
+    display: flex;
+    align-items: center;
+    gap: 2%;
+}
+.bottom-text{
+    text-align: center;
+    margin-top: -5%;
+}
+.bottom-text h2{
+    margin: 7%;
+    font-size: 40px;
+    font-weight: 700;
+    color: #C8A2C8;
+    font-family: 'Ubuntu', sans-serif;
+}
+.bottom-text hr{
+    color:#C8A2C8;
+}
+.one{
+    font-size: 50px;
+    font-weight: 900;
+}
+.arrow img{
+    width: 10%;
+    align-content: center;
+    margin: -5%;
+}
+.arrow h4{
+    text-align: center;
+    padding: 5%;
+}
+.galery-row1 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    align-items: center;
+    justify-content: center;
+}
+.galery-row2 img{
+    width: 200px;
+    height: 200px;
+    border-radius: 25%;
+    align-items: center;
+    justify-content: center;
+}
+.galery-row2{
+    padding-top: 27px;
+}
+.gal2{
+    padding: 0px 27px;
+}
+.gal5{
+    padding: 0px 27px;
+}
+.learn-section{
+    display: flex;
+    justify-content: center;
+    padding: 2%;
+}
+.learn-section button{
+    text-align: center;
+    border-color: violet;
+    background: black;
+    color: white;
+    width: 222px;
+    height: 40px;
+}
+.content{
+    display: flex;
+    gap: 10%;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 25px;
+}
+.security h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    color: #C8A2C8;
+    font-family: 'Ubuntu', sans-serif;
+}
+.phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1%;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.photo img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.address{
+    font-weight: bold;
+    text-align: center;
+}
+.divide hr{
+    height: 10px;
+    width: 150px;
+    background: white;
+}
+.simple{
+    font-weight: bold;
+    text-align: center; 
+}
